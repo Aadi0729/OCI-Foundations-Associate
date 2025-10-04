@@ -3,15 +3,11 @@
 This repository documents my journey to becoming **OCI Foundations Associate Certified**.  
 It includes conceptual hands-on labs, skills gained, and plans for future deployments.
 
----
 
 ## 📄 Certificate
 
-
-![OCI Foundations Certificate](certificate/OCI_Foundations.png)
 ![OCI Foundations Associate_page-0001](https://github.com/user-attachments/assets/f15b7156-fed4-4bfd-a677-40d4c5b01886)
 
----
 
 ## 💡 Skills Gained
 
@@ -42,9 +38,8 @@ During the course and hands-on labs, I learned and practiced:
 7. **Cost Management**
    - Pricing, tagging, cost optimization
 
----
 
-## 🖥️ Hands-on Labs (Conceptual)
+## 🖥️ Hands-on Labs
 
 During the OCI Foundations course, I completed **guided labs** to understand cloud services practically. These exercises helped me gain confidence in using OCI resources.
 
@@ -61,9 +56,6 @@ During the OCI Foundations course, I completed **guided labs** to understand clo
    - Configured VCNs, subnets, and routing rules
    - Learned about load balancer configuration and security lists
 
-> Note: Screenshots are not included yet. Labs were completed conceptually using the course activity guide.
-
----
 
 ## 🚀 Future Deployments
 
